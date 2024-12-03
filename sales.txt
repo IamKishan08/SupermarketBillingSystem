@@ -1,0 +1,17 @@
+Bill ID: f52c02c4-8b3e-48f5-acb9-69f4b540bb89
+Date: 2024-11-27T23:07:37.514108981
+Items:Apples - 2 x 100.0
+Milk - 2 x 50.0
+Total: 270.0, GST: 13.5, Payment Method: CASH, Balance Returned: 0.5
+---------------------------------------------------
+Bill ID: baa53445-a4fd-440e-91c8-db41b9d8ef37
+Date: 2024-11-28T11:33:39.541079691
+Items:Milk - 1 x 50.0
+Milk - 1 x 50.0
+Total: 90.0, GST: 4.5, Payment Method: CASH, Balance Returned: 0.5
+---------------------------------------------------
+Bill ID: cc6c694b-097c-4b56-9bf8-9297807ec7fe
+Date: 2024-11-28T12:00:26.834699248
+Items:Apples - 2 x 150.0
+Total: 260.0, GST: 13.0, Payment Method: CASH, Balance Returned: 0.0
+---------------------------------------------------
